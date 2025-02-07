@@ -66,3 +66,9 @@ Each layer would have some weights and biases.
   
 Learning - finding the right weights and biases. This would impossible for a human to do by hand, so we need some way for the weights and biases to be adjusted automatically. For a good idea ofwhat matrix multiplication means, review [3b1b linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs)
   
+One note at the end, Sigmoid is a relatively old-school activation function. There are many other activation functions that are more powerful and faster such as ReLU (rectified linear unit).
+    
+# Chapter 2
+[https://www.youtube.com/watch?v=IHZwWFHWa-w](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+
+### Notes
